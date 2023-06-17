@@ -1,4 +1,4 @@
-# 黑马学成在线项目
+# 51学成在线项目
 - 技术栈：Nginx、SpringBoot、Spring Cloud、Spring Security、MinIO、MyBatis-Plus、MQ、Redis、Elasticsearch
 - 共分为七个模块
 
